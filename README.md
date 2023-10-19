@@ -4,4 +4,6 @@ Vanilla Javascript API Projects
 
 | Project Name | Technologies |
 |-----------|------------|
-| [Icon Bar With Dropdown Items](https://sensational-llama-635cf4.netlify.app)   | HTML5, CSS3, JS |
+| [Country Guide](https://classy-malasada-2f3876.netlify.app)  | HTML5, CSS3, JS |
+| [Random Joke Generator](https://guileless-stardust-47789c.netlify.app)  | HTML5, CSS3, JS |
+
